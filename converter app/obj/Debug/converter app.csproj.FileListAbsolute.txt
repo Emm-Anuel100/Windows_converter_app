@@ -1,0 +1,15 @@
+C:\Users\Emmanuel\source\repos\converter app\converter app\bin\Debug\converter app.exe.config
+C:\Users\Emmanuel\source\repos\converter app\converter app\bin\Debug\converter app.exe
+C:\Users\Emmanuel\source\repos\converter app\converter app\bin\Debug\converter app.pdb
+C:\Users\Emmanuel\source\repos\converter app\converter app\obj\Debug\converter app.csprojAssemblyReference.cache
+C:\Users\Emmanuel\source\repos\converter app\converter app\obj\Debug\converter_app.Form1.resources
+C:\Users\Emmanuel\source\repos\converter app\converter app\obj\Debug\converter_app.Properties.Resources.resources
+C:\Users\Emmanuel\source\repos\converter app\converter app\obj\Debug\converter app.csproj.GenerateResource.cache
+C:\Users\Emmanuel\source\repos\converter app\converter app\obj\Debug\converter app.csproj.CoreCompileInputs.cache
+C:\Users\Emmanuel\source\repos\converter app\converter app\obj\Debug\converter app.exe
+C:\Users\Emmanuel\source\repos\converter app\converter app\obj\Debug\converter app.pdb
+C:\Users\Emmanuel\source\repos\converter app\converter app\obj\Debug\converter_app.Form2.resources
+C:\Users\Emmanuel\source\repos\converter app\converter app\bin\Debug\window.ico
+C:\Users\Emmanuel\source\repos\converter app\converter app\obj\Debug\converter_app.Form1.gsw-FR.resources
+C:\Users\Emmanuel\source\repos\converter app\converter app\obj\Debug\gsw-FR\converter app.resources.dll
+C:\Users\Emmanuel\source\repos\converter app\converter app\bin\Debug\gsw-FR\converter app.resources.dll
